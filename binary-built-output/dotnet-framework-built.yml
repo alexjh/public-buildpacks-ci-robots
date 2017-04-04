@@ -1,32 +1,5 @@
 ---
 dotnet-framework:
 - version: 1.0.1
-  git-commit-sha: 8cec61c6f74cc9648c372388615613a6be156b0c
-  timestamp: 2016-12-23 22:49:22 UTC
-- version: 1.0.1
-  git-commit-sha: 8cec61c6f74cc9648c372388615613a6be156b0c
-  timestamp: 2016-12-27 15:55:08 UTC
-- version: 1.0.1
-  git-commit-sha: 8cec61c6f74cc9648c372388615613a6be156b0c
-  timestamp: 2016-12-27 16:06:39 UTC
-- version: 1.0.1
-  git-commit-sha: 8cec61c6f74cc9648c372388615613a6be156b0c
-  timestamp: 2016-12-27 16:28:43 UTC
-- version: 1.0.1
-  git-commit-sha: 8cec61c6f74cc9648c372388615613a6be156b0c
-  timestamp: 2016-12-27 16:35:23 UTC
-- version: 1.0.1
-  git-commit-sha: 8cec61c6f74cc9648c372388615613a6be156b0c
-  timestamp: 2016-12-27 17:38:20 UTC
-- version: 1.0.4
-  git-commit-sha: 005db40cd17afb1c435bcce66d6c703220e6602c
-  timestamp: 2017-03-07 22:07:46 UTC
-- version: 1.1.1
-  git-commit-sha: 005db40cd17afb1c435bcce66d6c703220e6602c
-  timestamp: 2017-03-07 22:07:46 UTC
-- version: 1.0.4
-  git-commit-sha: 005db40cd17afb1c435bcce66d6c703220e6602c
-  timestamp: 2017-03-07 22:31:25 UTC
-- version: 1.1.1
-  git-commit-sha: 005db40cd17afb1c435bcce66d6c703220e6602c
-  timestamp: 2017-03-07 22:31:25 UTC
+  git-commit-sha: 4a930b4f3a554ca3de76554de9fed7063079cc73
+  timestamp: 2017-04-03 18:53:51 UTC
